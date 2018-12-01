@@ -18,7 +18,7 @@ durée : 4 mois a 6 mois
 
 *Il s'agira dans un premier temps de présenter la philosophie des principaux systèmes, et dans un second temps de voir quantitativement les conséquences d'une réforme du système.*
 
-Pour postuler : [charpentier.arthur@uqam.ca](mailto:charpentier.arthur@uqam.ca))
+Pour postuler : [charpentier.arthur@uqam.ca](mailto:charpentier.arthur@uqam.ca)
 
 References :
 - Les systemes d'indemnisation des catastrophes naturelles [pdf](https://github.com/freakonometrics/catnat/raw/master/documents/2017-rapport-systemes-indemnisation-catastrophes-naturelles%200.pdf)
