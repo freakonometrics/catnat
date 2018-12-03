@@ -4,7 +4,7 @@ Encadrement : **Arthur Charpentier** et **Laurence Barry**
 
 Lieu : **Montréal**, Canada (UQAM - [Quantact](http://quantact.uqam.ca/))
 
-Financement : chaire [Pari](http://www.chaire-pari.fr/acteurs/membres/) / UQAM : billet avion + logement (forfait) + indemnité de stage
+Financement : chaire [PARI](http://www.chaire-pari.fr/acteurs/membres/) / UQAM : billet avion + logement (forfait) + indemnité de stage
 
 durée : 4 mois a 6 mois
 
